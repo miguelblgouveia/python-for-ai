@@ -24,7 +24,6 @@ cat.color
 cat.display_info()
 
 dog = Dog("Buddy")
-dog.name
 dog.display_info()
 
 jerry = Dog("Jerry")
